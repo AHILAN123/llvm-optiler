@@ -1,4 +1,4 @@
-# Python
+__pycache__/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -11,6 +11,8 @@ env/
 .env
 .env.*
 !.env.example
+PLAN.md
+runs/ 
 
 # Generated compiler runs and logs
 runs/
@@ -26,7 +28,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Editors and operating system files
 .vscode/*
 !.vscode/extensions.json
 .idea/
